@@ -1,0 +1,33 @@
+{
+  "name": "layman",
+  "title": "Layout Manager",
+  "description": "Grid based layouting for HTML",
+  "version": "0.1.0",
+  "homepage": "https://github.com/raghums/layman",
+  "author": {
+    "name": "Raghuram Sreenath",
+    "email": "raghums@gmail.com",
+    "url": "http://www.brewcharts.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raghums/layman.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raghums/layman/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/raghums/layman/blob/master/LICENSE-MIT"
+    },
+    {
+      "type": "GPL",
+      "url": "https://github.com/raghums/layman/blob/master/LICENSE-GPL"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">= 1.6"
+  },
+  "keywords": []
+}
