@@ -11,11 +11,14 @@ Download the [production version][min] or the [development version][max].
 In your web page:
 
 ```html
+<body>
+  <div id="my_layout"></div>
+</body>
 <script src="jquery.js"></script>
 <script src="dist/layman.min.js"></script>
 <script>
 jQuery(function($) {
-  $.awesome(); // "awesome"
+  $("#my_layout").layman();
 });
 </script>
 ```
